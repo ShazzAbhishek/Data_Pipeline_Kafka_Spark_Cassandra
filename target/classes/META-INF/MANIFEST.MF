@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: abhishekshastry
+Build-Jdk: 16.0.2
+Implementation-Title: eCommerce
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.bookstore
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/bookstore
+Created-By: Maven Integration for Eclipse
+
