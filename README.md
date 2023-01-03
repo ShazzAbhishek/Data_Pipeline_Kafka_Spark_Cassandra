@@ -22,7 +22,7 @@ Analysis later. The data is sent from spring based Java applicaton to kafka and 
 
 ![Project Snapsort6](https://github.com/ShazzAbhishek/Data_Pipeline_Kafka_Spark_Cassandra/blob/main/screensort/kafka-topic.png)
 
-## Sparl shell
+## Spark shell
 
 ![Project Snapsort6](https://github.com/ShazzAbhishek/Data_Pipeline_Kafka_Spark_Cassandra/blob/main/screensort/spark.png)
 
