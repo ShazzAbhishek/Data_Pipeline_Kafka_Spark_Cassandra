@@ -15,11 +15,4 @@ Analysis later. The data is sent from spring based Java applicaton to kafka and 
 
 ![Project Snapsort4](https://github.com/foysal-mahmud/E-Commerce/blob/master/screensort/ebook5.png)
 ![Project Snapsort5](https://github.com/ShazzAbhishek/Data_Pipeline_Kafka_Spark_Cassandra/blob/main/screensort/starting-zooper.png)
-
-
-
-
-
-
-
-
+![Project Snapsort6](https://github.com/ShazzAbhishek/Data_Pipeline_Kafka_Spark_Cassandra/blob/main/screensort/kafka-topic.png)
