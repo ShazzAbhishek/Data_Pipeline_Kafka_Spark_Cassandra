@@ -1,5 +1,6 @@
-# Kafka-Spark work flow. This is a ecommerce website developed to identify the clicks and non clicks to analyse the user sentiment 
-# Analysis later. The data is sent from spring based Java applicaton to kafka and from there to spark and then data base.
+# Kafka-Spark work flow. 
+This is a ecommerce website developed to identify the clicks and non clicks to analyse the user sentiment 
+Analysis later. The data is sent from spring based Java applicaton to kafka and from there to spark and then data base.
 
 
 ## Home Page:
