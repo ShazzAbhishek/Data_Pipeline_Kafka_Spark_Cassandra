@@ -3,9 +3,9 @@ This is a ecommerce website developed to identify the clicks and non clicks to a
 Analysis later. The data is sent from spring based Java applicaton to kafka and from there to spark and then data base.
 
 
-## Home Page:
+## Home Page:          
 
-![Project Snapsort1](https://github.com/ShazzAbhishek/Data_Pipeline_Kafka_Spark_Cassandra/blob/master/screensort/ebook1.png) 
+![Project Snapsort1](https://github.com/ShazzAbhishek/Data_Pipeline_Kafka_Spark_Cassandra/blob/main/screensort/ebook1.png) 
 
 ![Project Snapsort2](https://github.com/ShazzAbhishek/Data_Pipeline_Kafka_Spark_Cassandra/blob/master/screensort/ebook2.png)
 
