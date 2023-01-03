@@ -4,6 +4,7 @@ Analysis later. The data is sent from spring based Java applicaton to kafka and 
 
 
 ## Home Page:
+
 ![Project Snapsort1](https://github.com/ShazzAbhishek/Data_Pipeline_Kafka_Spark_Cassandra/blob/master/screensort/ebook1.png) 
 
 ![Project Snapsort2](https://github.com/ShazzAbhishek/Data_Pipeline_Kafka_Spark_Cassandra/blob/master/screensort/ebook2.png)
