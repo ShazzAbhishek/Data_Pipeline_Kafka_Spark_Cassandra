@@ -4,17 +4,17 @@ Analysis later. The data is sent from spring based Java applicaton to kafka and 
 
 
 ## Home Page:
-![Project Snapsort1](https://github.com/foysal-mahmud/E-Commerce/blob/master/screensort/ebook1.png) 
+![Project Snapsort1](https://github.com/ShazzAbhishek/Data_Pipeline_Kafka_Spark_Cassandra/blob/master/screensort/ebook1.png) 
 
-![Project Snapsort2](https://github.com/foysal-mahmud/E-Commerce/blob/master/screensort/ebook2.png)
+![Project Snapsort2](https://github.com/ShazzAbhishek/Data_Pipeline_Kafka_Spark_Cassandra/blob/master/screensort/ebook2.png)
 
-![Project Snapsort3](https://github.com/foysal-mahmud/E-Commerce/blob/master/screensort/ebook3.png)
-
-
+![Project Snapsort3](https://github.com/ShazzAbhishek/Data_Pipeline_Kafka_Spark_Cassandra/blob/master/screensort/ebook3.png)
 
 ## Book Details Page:
 
-![Project Snapsort5](https://github.com/foysal-mahmud/E-Commerce/blob/master/screensort/ebook5.png)
+![Project Snapsort4](https://github.com/foysal-mahmud/E-Commerce/blob/master/screensort/ebook5.png)
+![Project Snapsort5](https://github.com/ShazzAbhishek/Data_Pipeline_Kafka_Spark_Cassandra/blob/main/screensort/starting-zooper.png)
+
 
 
 
