@@ -13,7 +13,6 @@ Analysis later. The data is sent from spring based Java applicaton to kafka and 
 
 
 ## Book Details Page:
-![Project Snapsort4](https://github.com/foysal-mahmud/E-Commerce/blob/master/screensort/ebook4.png) 
 
 ![Project Snapsort5](https://github.com/foysal-mahmud/E-Commerce/blob/master/screensort/ebook5.png)
 
