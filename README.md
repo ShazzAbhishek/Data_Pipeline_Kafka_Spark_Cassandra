@@ -7,9 +7,9 @@ Analysis later. The data is sent from spring based Java applicaton to kafka and 
 
 ![Project Snapsort1](https://github.com/ShazzAbhishek/Data_Pipeline_Kafka_Spark_Cassandra/blob/main/screensort/ebook1.png) 
 
-![Project Snapsort2](https://github.com/ShazzAbhishek/Data_Pipeline_Kafka_Spark_Cassandra/blob/master/screensort/ebook2.png)
+![Project Snapsort2](https://github.com/ShazzAbhishek/Data_Pipeline_Kafka_Spark_Cassandra/blob/main/screensort/ebook2.png)
 
-![Project Snapsort3](https://github.com/ShazzAbhishek/Data_Pipeline_Kafka_Spark_Cassandra/blob/master/screensort/ebook3.png)
+![Project Snapsort3](https://github.com/ShazzAbhishek/Data_Pipeline_Kafka_Spark_Cassandra/blob/main/screensort/ebook3.png)
 
 ## Book Details Page:
 
